@@ -10,7 +10,7 @@ Updated **2026-11-01**. **ONE PURPOSE ONLY:** get the best tire for this car at 
 |---|---:|---|---|---|---|---|
 | **Falken Azenis FK460 A/S** | **$964.00** | Good owner feedback; Tire Rack 8.7/10 wet, 9.0/10 dry | Tire Rack 6.4/10 (light snow only) | Tire Rack comfort 8.4/10 | Falken; 50k *advertised* | **Lowest listed purchase price** |
 | **Vredestein Hypertrac All Season** | **$1,013.08** | Strong UHP all-season value; fewer matched comparative tests | Light snow, **not 3PMSF** | Comfort/value-oriented performance tire | Vredestein; 50k *advertised* | Low-priced alternative to Falken |
-| **Continental ExtremeContact DWS 06 Plus** | **$1,170.00** | **Excellent all-around**; matched professional-test record vs Michelin is 2–2 | Capable light snow; not snow tire | Generally more refined/quiet than Michelin in shared tests | Continental; 50k *advertised* | **Recommended overall balance** |
+| **Continental ExtremeContact DWS 06 Plus** | **$1,169.96** | **Excellent all-around**; matched professional-test record vs Michelin is 2–2 | Capable light snow; not snow tire | Generally more refined/quiet than Michelin in shared tests | Continental; 50k *advertised* | **Recommended overall balance** |
 | **Michelin Pilot Sport All Season 4** | **$1,337.96** | Strong dry/wet braking; 4.1% shorter average wet stops vs Continental in shared tests | Strongest snow braking of Continental/Michelin comparisons; not snow tire | Can be louder/firmer than Continental | Michelin; 45k *advertised*, **staggered rear warranty may be halved** | Maximum tested braking performance |
 
 *All models are performance all-seasons with preliminary 95Y XL front and 97Y XL rear listings, not verified VIN-specific Mercedes approval. The reviews/test numbers are from varying vehicle/size samples, not tests on this CLE. Treadwear warranty in a staggered fitment may be reduced or excluded; confirm actual manufacturer terms.*
@@ -18,8 +18,8 @@ Updated **2026-11-01**. **ONE PURPOSE ONLY:** get the best tire for this car at 
 **Price sources:**
 - [Falken (2024 CLE 20-inch staggered filter), $202 front and $280 rear](https://www.tirerack.com/tires/TireSearchResults.jsp?autoMake=Mercedes-Benz&autoModClar=245%2F35-20F+275%2F30-20R&autoModel=CLE300+4MATIC&autoYear=2024&frontDiameter=20&frontRatio=35&frontSortCode=59849&frontWidth=245%2F&rearDiameter=20&rearRatio=30&rearSortCode=59999&rearWidth=275%2F)
 - [Vredestein $237.77 front and $268.77 rear](https://www.tirerack.com/tires/tires.jsp?autoMake=Mercedes-Benz&autoModClar=245%2F35-20F+275%2F30-20R&autoModel=CLE300+4MATIC+AMG+Line&autoYear=2024&frontTire=435YR0HTASXL&rearTire=73YR0HTASXLV2&tireMake=Vredestein&tireModel=Hypertrac+All+Season)
-- [Continental $289 front and $296 rear](https://www.discounttire.com/fitmentresult/tires/size/245-35-20/rear/275-30-20) — **Price benchmark from Discount Tire; not a local installation offer.** Compare on Tire Rack checkout.
-- [Michelin $331.99 front](https://tires.costco.com/SearchResultsByItemOrPart?ItemNo=1549260) and [rear $336.99](https://tires.costco.com/SearchResultsByItemOrPart?ItemNo=1549715) — **Costco price benchmarks**, local inventory not checked. Alternative supplier may have a different price.
+- [Continental Tire Rack $288.99 front and $295.99 rear](https://www.tirerack.com/tires/TireSearchResults.jsp?autoMake=BMW&autoModClar=245%2F35-20F+275%2F30-20R&autoModel=650i+xDrive+%28Before+3%2F14%29&autoYear=2014&frontDiameter=20&frontRatio=35&frontSortCode=59849&frontWidth=245%2F&rearDiameter=20&rearRatio=30&rearSortCode=59999&rearWidth=275%2F) — Tire Rack model/size listing, local checkout pending.
+- [Michelin Tire Rack $331.99 front and $336.99 rear](https://www.tirerack.com/tires/tires.jsp?autoMake=BMW&autoModClar=With+Staggered+Tires&autoModel=640i+xDrive+Gran+Coupe&autoYear=2018&frontTire=435YR0PSAS4XL&rearTire=73YR0PSAS4XL&tireMake=Michelin&tireModel=Pilot+Sport+All+Season+4) — Tire Rack set listing, local checkout pending.
 - [Continental vs Michelin independent shared-test detail, updated October 2026](https://www.tyrereviews.com/Compare/ExtremeContact-DWS-06-PLUS-VS-Pilot-Sport-All-Season-4.htm).
 
 ## 2. Real cost model: buy online and INSTALL LOCALLY at Firestone, Jersey City
@@ -32,12 +32,23 @@ Updated **2026-11-01**. **ONE PURPOSE ONLY:** get the best tire for this car at 
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | **Falken FK460 A/S** | $404.00 | $560.00 | $964.00 | $92 | $20 | $71.29 | $6 | **$1,153.29** |
 | **Vredestein Hypertrac** | $475.54 | $537.54 | $1,013.08 | $92 | $20 | $74.54 | $6 | **$1,205.62** |
-| **Continental DWS 06 Plus** | $578.00 | $592.00 | $1,170.00 | $92 | $20 | $84.93 | $6 | **$1,372.93** |
+| **Continental DWS 06 Plus** | $577.98 | $591.98 | $1,169.96 | $92 | $20 | $84.93 | $6 | **$1,372.89** |
 | **Michelin Pilot Sport A/S 4** | $663.98 | $673.98 | $1,337.96 | $92 | $20 | $96.06 | $6 | **$1,552.02** |
 
-**Price caveat:** Continental and Michelin rows mix a separately observed retailer's tire price with the *Firestone* installation fees **for scenario comparison**, not a verified single checkout. Obtain an actual Tire Rack-to-Firestone cart or quote before relying on them. No installation appointment/availability confirmed.
+**Price caveat:** All four rows combine current Tire Rack tire-price listings with *Firestone's posted installation* charges **for comparison**, not verified combined checkout quotes. Obtain an actual Tire Rack-to-Firestone cart or quote before relying on them. No installation appointment/availability confirmed.
 
 **Additional costs to ASK ABOUT — don't invent zero:** customer-supplied tire surcharge, TPMS rebuild/valve costs, special run-flat handling, wheel protection or road-force balancing, extra shop supplies, special shipping, alignment (only if indicated), and applicable membership/discount. **Rebates and gift cards are not deducted unless currently eligible and confirmed.** Check that final billed NJ tire fee isn't duplicated.
+
+## Rebates: **economic cost after reward** versus price paid at installation
+
+| Tire | Pay now estimate | Reward card (conditional) | **If approved: net economic cost** | Terms |
+|---|---:|---:|---:|---|
+| Falken FK460 | $1,153.29 | $0 | $1,153.29 | None confirmed |
+| **Vredestein Hypertrac** | **$1,205.62** | **$120 prepaid Mastercard** | **$1,085.62** | Purchase Nov 1–30, 2026; submit by Dec 30, 2026; qualifying four tires, participating retailer, claim approval |
+| Continental DWS06 Plus | $1,372.89 | $0 | $1,372.89 | None applied |
+| Michelin Pilot Sport AS4 | $1,552.02 | $80 reward card | $1,472.02 | Qualifying Tire Rack offer through Nov 30, 2026; submit and await approval |
+
+Source: [Vredestein detailed November rebate terms](https://www.tirerack.com/specialoffers/details.jsp?promoID=V6142) and [Michelin tire-specific November reward offer](https://www.tirerack.com/tires/tires.jsp?autoMake=BMW&autoModClar=With+Staggered+Tires&autoModel=640i+xDrive+Gran+Coupe&autoYear=2018&frontTire=435YR0PSAS4XL&rearTire=73YR0PSAS4XL&tireMake=Michelin&tireModel=Pilot+Sport+All+Season+4). Reward cards are **not upfront cash discounts**, and their face value counts only if received and usable.
 
 ## 3. Local sellers/installers to contact — 50-mile cap
 
@@ -65,6 +76,6 @@ Retailer source links: [Tire Rack local installers](https://www.tirerack.com/ins
 
 ## 5. Final buying rule
 
-**First try:** Continental DWS 06 Plus **if full installed total is within about $200–$250 of cheaper credible alternatives**; otherwise Falken FK460 A/S offers best currently observed upfront price. Michelin is worthwhile mainly if its measured braking edge matters enough to pay a premium. Get one actual complete quote for each candidate *and* one competing local shop quote before purchase.
+**First try:** Continental DWS 06 Plus if prioritizing a proven comfort/wet balance; Falken FK460 A/S has the cheapest upfront cost, while Vredestein Hypertrac has the lowest **potential** net cost if the $120 reward is approved. Michelin is worthwhile mainly if its measured braking edge matters enough to pay a premium. Get one actual complete quote for each candidate *and* one competing local shop quote before purchase.
 
 **Status:** research only; no seller/shop has supplied a personalized quote or confirmed stock, fitment or appointment. Keep actual quotes in [data/quotes.csv](../data/quotes.csv).
