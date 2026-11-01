@@ -1,0 +1,7 @@
+# Never push personally identifying vehicle documents to a public repository
+private/
+secrets/
+.env
+*.key
+.DS_Store
+Thumbs.db
